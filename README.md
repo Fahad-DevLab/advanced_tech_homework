@@ -1,6 +1,6 @@
 # Advanced Technology Course - Homework Portfolio
 
-**Student Name:** Fahad Hamdan
+**Student Name:** Fahad Hamdan Alharbi
 **Course:** Advanced Technology
 
 ---
