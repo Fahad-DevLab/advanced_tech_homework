@@ -14,3 +14,7 @@
 ### 2. Homework 2: JavaScript Calculator
 * **Description:** A dynamic web-based calculator built using HTML, Bootstrap 5, and JavaScript to perform mathematical operations (Addition, Multiplication, Max, and Average) on multiple inputs.
 * **Repository:** [View Homework 2](https://github.com/Fahad-DevLab/homework2)
+* 
+### 3. Homework 3: Student Space Web Application
+* **Description:** A web application based on the CRUD system, which allows users to save and manage student profiles in a secured platform. Built using PHP, HTML, CSS, and JavaScript.
+* **Repository:** [View Homework 3](https://github.com/Fahad-DevLab/Student-Space)
